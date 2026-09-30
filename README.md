@@ -1,0 +1,1 @@
+# PrepmatrixAI Desktop Releases`n`nPublic installer artifacts only.
